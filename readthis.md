@@ -4,4 +4,6 @@
 ## this is a check of branch updates
 
 
-## checking
+## Updates in Stage
+
+## more updates in working directory
